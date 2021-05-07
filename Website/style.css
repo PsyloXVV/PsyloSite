@@ -8,7 +8,7 @@ ul{
     list-style:none;  
 }
 a{
-    text-decoration: :none;
+    text-decoration: none;
 }
 section{
     width: 100%;
@@ -34,3 +34,56 @@ nav ul li a{
     font-size:15px;
     font-weight: 700;
 }
+h2{
+    text-align: center;   
+}
+p{
+    display: inline-flex;
+    text-align: center;
+}
+#profile_pic{
+    height: 175px;
+    width: 175px;
+    text-align: center;
+}
+.logo{
+    font: RoadTest;
+    color: black;
+    font-size: 25px;
+}
+.active{
+    font-weight: bold;
+    color: darkorange;
+
+}
+.bio{
+    height: auto;
+    background: #AFCEFE;
+    width: 50%; 
+    margin: 10px;
+    display: block;
+    float: left;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.social_youtube{
+    background-color: #FA5C61;
+    width: 45%;
+    height: auto;
+    margin: 10px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: block;
+    float: left;
+}
+#social_h2{
+    color: white;
+}
+.social_twitch{
+    background-color: #DD05DD;
+    width: 45%;
+    height: auto;
+    margin: 10px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: block;
+    float: left;
+}
+
