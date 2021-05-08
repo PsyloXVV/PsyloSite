@@ -4,6 +4,9 @@ body{
     margin:0px;
     padding: 0px;
 }
+h1{
+    text-align: center;
+}
 ul{
     list-style:none;  
 }
@@ -87,3 +90,21 @@ p{
     float: left;
 }
 
+.social_instagram{
+    background-color: #FF33C1;
+    width: 45%;
+    height: auto;
+    margin: 10px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: block;
+    float: left;
+}
+
+.page_title{
+    height: auto;
+    background: #AFCEFE;
+    width: auto; 
+    margin: 10px;
+    display: block;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
